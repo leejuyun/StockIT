@@ -176,7 +176,7 @@ String from = ""; 메일을 발송할 메일주소 작성필요, gmail로만 메
 ---
 ## 구현 화면
 ### 메인 페이지
-![main](.main.png)
+![main](./main.png)
 ### 뉴스 페이지
 ![news](./README_IMG/news.jpg)
 ### 로그인 페이지
